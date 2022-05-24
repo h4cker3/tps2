@@ -1,0 +1,19 @@
+img {
+    padding: 20px;
+}
+
+.begin {
+    font-size: 150%;
+}
+
+body {
+    font-family: courier;
+}
+
+.badge {
+    background-color: darkgray;
+}
+
+p {
+    font-size: 150%;
+}
